@@ -20,7 +20,7 @@ Our starting point website.
 
 We will find secrets inside the code.
 
-See more on the [REAME.md](./step0/README.md).
+See more on the [README.md](./step0/README.md).
 
 Related french article: [SECURISER UNE APPLICATION - PART1](https://blog.d2si.io/2019/03/28/tutoriel-vault-securiser-application/)
 
@@ -28,7 +28,7 @@ Related french article: [SECURISER UNE APPLICATION - PART1](https://blog.d2si.io
 
 In this step, we add a entrypoint dealing with Vault (Authentication + retrieve secrets) inside the application without changing the code.
 
-See more on the [REAME.md](./step1/README.md).
+See more on the [README.md](./step1/README.md).
 
 Related french article: [SECURISER UNE APPLICATION - PART1](https://blog.d2si.io/2019/03/28/tutoriel-vault-securiser-application/)
 
@@ -38,7 +38,7 @@ In this step, we remove the entrypoint in the previous step and changing the app
 
 The goal is to use, at each time, a new database user (username+password) access.
 
-See more on the [REAME.md](./step2/README.md).
+See more on the [README.md](./step2/README.md).
 
 Related french article: [SECURISER UNE APPLICATION - PART2](https://blog.d2si.io/2019/05/06/tutoriel-vault-securiser-application-partie2/)
 
@@ -48,7 +48,7 @@ In this step, based on the previous step, we will add encryption and decryption 
 
 The goal is to encrypt the data into the database.
 
-See more on the [REAME.md](./step3/README.md).
+See more on the [README.md](./step3/README.md).
 
 Related french article: [ENCRYPTION AS A SERVICE](https://blog.d2si.io/2019/07/01/tutoriel-vault-securiser-application-partie3/)
 
@@ -59,7 +59,7 @@ Vault server and Consul Env to populate secrets into environment variables.
 
 The goal is to interact with the Vault transparently for an application (no app change).
 
-See more on the [REAME.md](./step4/README.md).
+See more on the [README.md](./step4/README.md).
 
 ### Step 4b (bonus): Vault agent only
 
@@ -69,7 +69,7 @@ The step 4 is a way to implement secret through environment variables and step 4
 
 The goal is to interact with the Vault transparently for an application (no app change).
 
-See more on the [REAME.md](./step4b/README.md).
+See more on the [README.md](./step4b/README.md).
 
 ## Contact
 
